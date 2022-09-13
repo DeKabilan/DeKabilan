@@ -2,3 +2,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeKabilan&layout=compact)](https://github.com/DeKabilan/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeKabilan&repo=github-readme-stats)](https://github.com/DeKabilan/Price_Scrapper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeKabilan&repo=github-readme-stats)](https://github.com/DeKabilan/Youtube_Downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
