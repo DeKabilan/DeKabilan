@@ -1,7 +1,7 @@
-HI I'M KABILAN (AKA) DEKABILAN
-I'm a Begginer Developer who focuses mostly on Python
-Connect with me
-dekabilan.github.io
+HI I'M KABILAN (AKA) DEKABILAN<br>
+I'm a Begginer Developer who focuses mostly on Python<br>
+Connect with me<br>
+dekabilan.github.io<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeKabilan&show_icons=true)
