@@ -1,16 +1,8 @@
-<style>
-  h1{
-  text-align:center;
-  }
-</style>
-<h1>HI I'M KABILAN (AKA) DEKABILAN</h1>
-<p>I'm a Begginer Developer who focuses mostly on Python</p>
-<div class="contact" style ="display:inline-flex;" >
-  <p>Feel Free to </p><a href="dekabilan.github.io">Contact</a>
-  <p> Me </p>
-  <p></p><br>
-</div>
 
+<h1>HI I'M KABILAN (AKA) DEKABILAN</h1>
+I'm a Begginer Developer who focuses mostly on Python<br>
+FeelFree to Contact Me
+<a href="dekabilan.github.io">Contact Me</a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeKabilan&show_icons=true)
