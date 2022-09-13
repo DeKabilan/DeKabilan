@@ -1,4 +1,9 @@
-<h1 style="text-align: center;">HI I'M KABILAN (AKA) DEKABILAN</h1>
+<style>
+  h1{
+  text-align:center;
+  }
+</style>
+<h1>HI I'M KABILAN (AKA) DEKABILAN</h1>
 <p>I'm a Begginer Developer who focuses mostly on Python</p>
 <div class="contact" style ="display:inline-flex;" >
   <p>Feel Free to </p><a href="dekabilan.github.io">Contact</a>
