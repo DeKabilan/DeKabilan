@@ -1,7 +1,7 @@
 
 <h1>HI I'M KABILAN (AKA) DEKABILAN</h1>
 I'm a Begginer Developer who focuses mostly on Python<br>
-FeelFree to Contact Me
+Feel Free to
 <a href="dekabilan.github.io">Contact Me</a>
 
 
