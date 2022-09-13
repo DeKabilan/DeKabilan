@@ -1,10 +1,10 @@
 <h1 style="text-align=: center;">HI I'M KABILAN (AKA) DEKABILAN</h1>
 <p>I'm a Begginer Developer who focuses mostly on Python</p>
-<span class="contact" style ="display:inline-block;" >
+<div class="contact" style ="display:inline-flex;" >
   <p>Feel Free to </p><a href="dekabilan.github.io">Contact</a>
   <p> Me </p>
   <p></p><br>
-</span>
+</div>
 
 
 
