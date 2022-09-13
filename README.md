@@ -1,5 +1,5 @@
-<h1 style="text-allign=centre";>HI I'M KABILAN (AKA) DEKABILAN</h1><br>
-<I'm a Begginer Developer who focuses mostly on Python<br>
+<h1 style="text-align=: centre;">HI I'M KABILAN (AKA) DEKABILAN</h1><br>
+<p>I'm a Begginer Developer who focuses mostly on Python</p><br>
 <a href="dekabilan.github.io">My Portfolio</a><br>
 
 
