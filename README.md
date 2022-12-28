@@ -1,6 +1,6 @@
 
 <h1>HI I'M KABILAN (AKA) DEKABILAN :wave:</h1>
-I'm a Beginner Developer who focuses mostly on Python<br>
+Hello, Nice to Meet You!<br>
 Feel Free to
 <a href="dekabilan.github.io">Contact</a> Me
 <p></p>
