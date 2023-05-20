@@ -2,7 +2,7 @@
 <h1>HI I'M KABILAN (AKA) DEKABILAN :wave:</h1>
 Hello, Nice to Meet You!<br>
 Feel Free to
-<a href="dekabilan.github.io">Contact</a> Me
+<a href="dekabilan.me">Contact</a> Me
 <p></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h3atdh37a26pzqhhms2a52mafy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
