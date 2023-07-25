@@ -4,7 +4,7 @@ Hello, Nice to Meet You!<br>
 Feel Free to
 <a href="https://dekabilan.me">Contact</a> Me
 <p></p>
-<a href="https://dekabilan.me">Blog</a>
+<a href="https://dekabilan.github.io/Blog_site">Blog</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeKabilan&show_icons=true)
 <br/>
